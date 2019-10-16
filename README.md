@@ -1,0 +1,2 @@
+# Stock-Price-Prediction
+Stock market prediction is the act of trying to determine the future value of a company stock. The Technical analysis is used for making the stock predictions. The programming language used to predict the stock market using machine learning is Python. The purpose to use Machine Learning(ML) approach is that it will be trained from the available stocks data and gain intelligence and then uses the acquired knowledge for prediction. Techniques used LSTM, Auto-ARIMA, Linear Regression, Random Forest, GBR.
